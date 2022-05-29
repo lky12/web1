@@ -1,0 +1,11 @@
+使用技术: ssh+bootstrap 
+开发环境：eclipse + jdk1.8 +tomcat9 + mysql5.7
+
+数据库文件：dinner.sql   数据库的名字：dinner
+数据库密码修改位置（默认123456）：applicationContext.xml
+
+订餐页面：http://localhost:8080/DinnerRoom/diancan
+管理页面：http://localhost:8080/DinnerRoom/login.jsp
+超级管理员： admin/admin
+工作人员：1234/123456
+
